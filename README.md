@@ -49,7 +49,7 @@ Typical structure:
 
 <hr/>
 
-<details>
+
   <summary style="cursor:pointer; font-size:16px;">
     💡 Share a Project Idea
   </summary>
@@ -81,7 +81,7 @@ Typical structure:
   No data is stored. Your idea is sent directly via email.
   </p>
 
-</details>
+
 
 ---
 
